@@ -1,0 +1,5 @@
+Resolution 2020 - 2021
+  1) Learn PHP and Javascript;
+  2) Learn Laravel Framework;
+  3) Learn Warehouse Management and Suplier;
+  4) Create and develop Warehouse Web Application.
