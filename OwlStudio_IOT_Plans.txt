@@ -1,0 +1,6 @@
+Prerequisite for Preapare IOT Project:
+  1) Review Javascript;
+  2) Learn about API;
+  3) Install application that be needed;
+  4) Learn React JS and React Native.
+  
